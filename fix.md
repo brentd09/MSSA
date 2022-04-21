@@ -1,3 +1,11 @@
+
+# Lab 12: Service Endpoints and Securing Storage
+
+
+## Task 3
+
+
+
 8. On the **Add outbound security rule** blade, specify the following settings to explicitly allow outbound traffic to Azure Storage (leave all other values with their default settings): 
 
     |Setting|Value|
