@@ -49,7 +49,7 @@
     |Source|**Any**|
     |Source port ranges|**\***|
     |Destination|**Service Tag**|
-    |Destination service tag**|**VirtualNetwork**|
+    |Destination service tag|**VirtualNetwork**|
     |Destination port ranges|**3389**|
     |Protocol|**TCP**|
     |Action|**Allow**|
