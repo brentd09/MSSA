@@ -15,7 +15,7 @@
 
 9. On the **Add outbound security rule** blade, click **Add** to create the new outbound rule. 
 
-
+10.
 
 11. On the **Add outbound security rule** blade, specify the following settings to explicitly deny outbound traffic to Internet (leave all other values with their default settings): 
 
