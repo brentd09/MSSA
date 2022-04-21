@@ -39,3 +39,22 @@
     |Action|**Deny**|
     |Priority|**1100**|
     |Name|**Deny-Internet-All**|
+    
+12. fklkdfkl
+
+13. On the **Add inbound security rule** blade, specify the following settings (leave all other values with their default values): 
+
+    |Setting|Value|
+    |---|---|
+    |Source|**Any**|
+    |Source port ranges|**\***|
+    |Destination|**Service Tag**|
+    |Destination service tag**|**VirtualNetwork**|
+    |Destination port ranges|**3389**|
+    |Protocol|**TCP**|
+    |Action|**Allow**|
+    |Priority|**1200**|                                                    
+    |Name|**Allow-RDP-All**|
+
+
+
